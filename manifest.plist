@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/prudnikovdbison/ServiceManager/master/ServiceManager.ipa</string>
+					<string>https://dl-web.dropbox.com/get/ServiceManager_OverTheAirInstallation/ServiceManager.ipa?_download_id=119024204471963602759141613303661781974291035632457571816391308259&_notify_domain=www.dropbox.com&_subject_uid=1329782224&dl=1&w=AAAH82XJUhVhxisJOrEqYMItqVEiW4iVUHhdHRiI2q2KLg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/prudnikovdbison/ServiceManager/master/icon.png</string>
+					<string>https://dl-web.dropbox.com/get/ServiceManager_OverTheAirInstallation/icon.png?_download_id=282166033231430204523757684234653477681421800571632415117299975216&_notify_domain=www.dropbox.com&_subject_uid=1329782224&dl=1&w=AACaBjIf-4wJscT_WWGZbbV_bf2V14gfJ1jc77Gq8IBf9w</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/prudnikovdbison/ServiceManager/master/icon.png</string>
+					<string>https://dl-web.dropbox.com/get/ServiceManager_OverTheAirInstallation/icon.png?_download_id=282166033231430204523757684234653477681421800571632415117299975216&_notify_domain=www.dropbox.com&_subject_uid=1329782224&dl=1&w=AACaBjIf-4wJscT_WWGZbbV_bf2V14gfJ1jc77Gq8IBf9w</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -43,7 +43,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/prudnikovdbison/ServiceManager/master/ServiceManager-iPad%20(4th%20generation)-etc.ipa</string>
+					<string>https://dl-web.dropbox.com/get/ServiceManager_OverTheAirInstallation/ServiceManager-iPad%20(4th%20generation)-etc.ipa?_download_id=459341926140850926057433061646058071384396074029314747595685349&_notify_domain=www.dropbox.com&_subject_uid=1329782224&dl=1&w=AADnmzTP59QgEIt3GSBxflzmKLCMYOsb6EOgmMhfQLkjUw</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPad3,6</string>
@@ -58,7 +58,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/prudnikovdbison/ServiceManager/master/ServiceManager-iPad%202-etc.ipa</string>
+					<string>https://dl-web.dropbox.com/get/ServiceManager_OverTheAirInstallation/ServiceManager-iPad%202-etc.ipa?_download_id=8991927216105884234618885882276429878463532148354646451006089402&_notify_domain=www.dropbox.com&_subject_uid=1329782224&dl=1&w=AAA0BSl8vG9PfGUSeDOiKojSR2bt84GFhPZNyH53Z3G8tw</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPad2,3</string>
@@ -74,7 +74,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/prudnikovdbison/ServiceManager/master/ServiceManager-iPad%20Pro%20(12.9-inch)-etc.ipa</string>
+					<string>https://dl-web.dropbox.com/get/ServiceManager_OverTheAirInstallation/ServiceManager-iPad%20Pro%20(12.9-inch)-etc.ipa?_download_id=3394813160749821476175878365882775872366222851219588433265394407&_notify_domain=www.dropbox.com&_subject_uid=1329782224&dl=1&w=AADhEhEfrneoGj2YdhfGn25hSYBW9HaYCsQgIL5F7UgK5A</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPad7,4</string>
@@ -100,57 +100,6 @@
 						<string>iPad7,3</string>
 						<string>iPad6,8</string>
 						<string>iPad4,4</string>
-					</array>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://raw.githubusercontent.com/prudnikovdbison/ServiceManager/master/ServiceManager-iPhone%206%20Plus-etc.ipa</string>
-					<key>variantIds</key>
-					<array>
-						<string>iPhone10,2</string>
-						<string>iPhone7,1</string>
-						<string>iPhone10,6</string>
-						<string>iPhone10,5</string>
-						<string>iPhone8,2</string>
-						<string>iPhone9,4</string>
-						<string>iPhone10,3</string>
-						<string>iPhone9,2</string>
-					</array>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://raw.githubusercontent.com/prudnikovdbison/ServiceManager/master/ServiceManager-iPhone%208-etc.ipa</string>
-					<key>variantIds</key>
-					<array>
-						<string>iPhone10,1</string>
-						<string>iPhone8,1</string>
-						<string>iPhone9,3</string>
-						<string>iPhone9,1</string>
-						<string>iPod7,1</string>
-						<string>iPhone7,2</string>
-						<string>iPhone8,4</string>
-						<string>iPhone10,4</string>
-						<string>iPhone6,2</string>
-						<string>iPhone6,1</string>
-					</array>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://raw.githubusercontent.com/prudnikovdbison/ServiceManager/master/ServiceManager-iPod%20touch-etc.ipa</string>
-					<key>variantIds</key>
-					<array>
-						<string>iPhone5,2</string>
-						<string>iPod5,1</string>
-						<string>iPhone5,3</string>
-						<string>iPhone5,4</string>
-						<string>iPhone4,1</string>
-						<string>iPhone5,1</string>
 					</array>
 				</dict>
 			</array>
