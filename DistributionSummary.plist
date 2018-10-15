@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Service Manager.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>1E1CEC91BDE6E918E43F71ACDA2521058E405251</string>
+				<key>dateExpires</key>
+				<string>20.02.20</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>EF4J3836GJ.com.bison.mobile.servicemanager</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>EF4J3836GJ</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>Service Manager.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>b35fedc8-77e9-4bb5-be8e-7d8abbe1bbd4</string>
+				<key>name</key>
+				<string>iOS Team Inhouse Provisioning Profile: com.bison.mobile.servicemanager</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>EF4J3836GJ</string>
+				<key>name</key>
+				<string>Bison Schweiz AG</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
